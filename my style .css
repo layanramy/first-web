@@ -1,0 +1,104 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbre{
+    width: 100%;
+    height: 50px;
+}
+i{
+    padding: 20px;
+    
+}
+.about{
+    width: 49%;
+    height: 150vh;
+}
+h1{
+    margin-top: 20px;
+    padding: 10px;
+    color: rgba(153, 147, 147, 0.842);
+    
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgba(153, 147, 147, 0.842);
+
+}
+.about .photo{
+    width: 100%;
+    height: 85%;
+}
+.about .photo img{
+    width:100%;
+    height:200vh;
+}
+.home{
+    width: 49%;
+    height: 100vh;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+#la12{
+    margin-top:30px;
+    color: rgba(153, 147, 147, 0.842);
+
+}
+p{
+    text-align: start;
+    font-size: larger;
+    padding: 20px;
+    margin-top: 5%;
+    color: rgba(153, 147, 147, 0.842);
+
+}
+.header .home .image{
+    width: 100%;
+height:70%;
+margin-top: 126px;
+}
+.header .home .image img{
+    width: 100%;
+    height: 170vh;
+}
+#na13{
+    font-size: larger;
+    color: rgba(153, 147, 147, 0.842);
+}
+
+.boss .cotactinfo{
+    background-color: black;
+    height:50vh;
+    width: 30%;
+
+}
+h5{
+    color: white;
+    font-size: medium;
+    text-align: start;
+    padding: 5px;
+}
+h1{
+    color: white;
+    font-size: larger;
+    text-align: start;
+}
+.boss .contactus{
+    width:30% ;
+    height:50vh ;
+    background-color: rgb(105, 103, 103);
+}
+.boss .Likeus{
+    width:30% ;
+    height: 50vh;
+    background-color: rgb(156, 152, 152);
+}
+.boss{
+    display: flex;
+    justify-content: center;
+}
